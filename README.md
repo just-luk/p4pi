@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------
 
-P4Pi (pronounced pappi or puppy) allows to design and deploy network data planes
+P4Pi (pronounced papi or puppy) allows to design and deploy network data planes
 written in P4 using the Raspberry Pi platform.
 
 # Getting Started
